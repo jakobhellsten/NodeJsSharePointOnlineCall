@@ -1,0 +1,17 @@
+{
+  "name": "nodejssponline",
+  "version": "1.0.0",
+  "description": "call sharepoint online from nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "jakob Hellsten",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sharepoint-rest": "0.0.9",
+    "node-sp-auth": "^1.2.0",
+    "sharepointconnector": "^1.0.66",
+    "sp-request": "^2.0.3"
+  }
+}
